@@ -1,0 +1,13 @@
+{
+  "game_id": "unique_id",
+  "game_name": "string",
+  "game_type": "skill/chance",
+  "outcomes": [
+    {
+      "outcome_id": "unique_id",
+      "user_id": "string",
+      "score": "number",
+      "timestamp": "datetime"
+    }
+  ]
+}

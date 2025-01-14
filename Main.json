@@ -1,0 +1,8 @@
+{
+        "user_id": "unique_id",
+        "username": "string",
+        "email": "string",
+        "password": "hashed_string",
+        "self_exclusion": "boolean",
+        "session_limit": "number"  // in minutes
+        }
